@@ -1,5 +1,7 @@
 # apotd
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/apotd.svg)](https://greenkeeper.io/)
+
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
 
